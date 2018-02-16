@@ -34,4 +34,6 @@
     <string name="hex_hint">#ff000000</string>
     <string name="set">Set</string>
     <string name="color_default">Default</string>
+    <string name="statusbar_dt2s_title">Double Tap To Sleep</string>
+    <string name="statusbar_dt2s_summary">Double tap on the status bar to sleep</string>
 </resources>
