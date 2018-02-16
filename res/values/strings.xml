@@ -26,14 +26,16 @@
         <string name="statusbar_settings_title">Status Bar</string>
 
     <!-- Color Picker -->
-    <string name="dialog_color_picker">Color Picker</string>
-    <string name="press_color_to_apply">Press on color below to apply</string>
-    <string name="arrow_right">→</string>
-    <string name="arrow_down">↓</string>
-    <string name="hex">Hex:</string>
-    <string name="hex_hint">#ff000000</string>
-    <string name="set">Set</string>
-    <string name="color_default">Default</string>
-    <string name="statusbar_dt2s_title">Double Tap To Sleep</string>
-    <string name="statusbar_dt2s_summary">Double tap on the status bar to sleep</string>
+        <string name="dialog_color_picker">Color Picker</string>
+        <string name="press_color_to_apply">Press on color below to apply</string>
+        <string name="arrow_right">→</string>
+        <string name="arrow_down">↓</string>
+        <string name="hex">Hex:</string>
+        <string name="hex_hint">#ff000000</string>
+        <string name="set">Set</string>
+        <string name="color_default">Default</string>
+        <string name="statusbar_dt2s_title">Double Tap To Sleep</string>
+        <string name="statusbar_dt2s_summary">Double tap on the status bar to sleep</string>
+	    <string name="dt2s_lockscreen_title">Double Tap To Sleep LockScreen</string>
+	    <string name="dt2s_lockscreen_summary">Double tap on the lock screen to sleep</string>
 </resources>
